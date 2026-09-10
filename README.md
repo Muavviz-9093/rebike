@@ -173,7 +173,5 @@ This project is licensed under the **ISC License**.
 ---
 
 ## 👤 Author
-Developed by **[Hammad](https://github.com/hammad288), [Muavviz](https://github.com/Muavviz-9093/rebike.git)
-
-**
+Developed by **[Hammad](https://github.com/hammad288), [Muavviz](https://github.com/Muavviz-9093/rebike.git)**
 .
